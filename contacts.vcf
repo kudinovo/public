@@ -1,0 +1,594 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Edinaya spravka
+N:;Edinaya spravka;;;
+TEL;TYPE=CELL:0630
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Express spravka
+N:;Express spravka;;;
+TEL;TYPE=CELL:0633
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:MGTS
+N:;MGTS;;;
+TEL;TYPE=CELL:009
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Oper Spravka
+N:;Oper Spravka;;;
+TEL;TYPE=CELL:0909
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Spravka MTS
+N:;Spravka MTS;;;
+TEL;TYPE=CELL:0890
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Александр Слюсарев
+N:Слюсарев;Александр;;;
+item1.EMAIL;TYPE=INTERNET:zonation@mail.ru
+item1.X-ABLabel:Домашние контакты
+item2.EMAIL;TYPE=INTERNET:ams1955@icloud.com
+item2.X-ABLabel:Домашние контакты
+item3.EMAIL;TYPE=INTERNET:rootmistr@gmail.com
+item3.X-ABLabel:Домашние контакты
+EMAIL;TYPE=INTERNET;TYPE=HOME:kudinovo1955@gmail.com
+item4.TEL:8 915 898-58-28
+item4.X-ABLabel:Мобильные устройства
+item5.TEL:81165957
+item5.X-ABLabel:Другое
+item6.TEL:79760515
+item6.X-ABLabel:Другое
+item7.TEL:8 920 888-13-52
+item7.X-ABLabel:Рабочие контакты
+PHOTO:https://lh5.googleusercontent.com/-e_SpfEemp0w/X8UHvzYEo9I/AAAAAAAAAA
+ A/yH6r-wO9inoNYuG_YEHwtY3_ZaoJjXJJQCOQCEAE/photo.jpg
+CATEGORIES:Родственники,myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Алексей Данейко
+N:Данейко;Алексей;;;
+item1.TEL:+79605206613
+item1.X-ABLabel:Мобильные устройства
+PHOTO:https://lh3.googleusercontent.com/-h-QIPWr0ZBU/X8Fb5C8xoiI/AAAAAAAAAA
+ A/sMxurlrdB20uBdZOzw2ZxPrD7pc2TX-dwCOQCEAE/photo.jpg
+CATEGORIES:Коллеги,myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Антиспам
+N:;Антиспам;;;
+TEL;TYPE=CELL:*903#
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Баланс
+N:;Баланс;;;
+TEL;TYPE=CELL:*100#
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Ближайший Салон Связи
+N:;Ближайший Салон Связи;;;
+TEL;TYPE=CELL:*123#
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Валентина Багирова
+N:Багирова;Валентина;;;
+item1.TEL:+79066419347
+item1.X-ABLabel:Мобильные устройства
+item2.TEL:84843869424
+item2.X-ABLabel:Домашние контакты
+PHOTO:https://lh6.googleusercontent.com/-Xp5SIXqZgT8/X8AeHtzLb3I/AAAAAAAAAA
+ A/IsKnECTCLBoexVT3BxOfLPYEGBsf92KJACOQCEAE/photo.jpg
+CATEGORIES:Родственники,myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Валентина Белова
+N:Белова;Валентина;;;
+item1.TEL:+79158944314
+item1.X-ABLabel:Мобильные устройства
+PHOTO:https://lh4.googleusercontent.com/-W8a_ZK2v71I/X8EO-IdOo0I/AAAAAAAAAA
+ A/y630wRVfuQoYtqVBUQOHx4JJd3__a9OjACOQCEAE/photo.jpg
+CATEGORIES:Родственники,myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Виталий Давыдов
+N:Давыдов;Виталий;;;
+item1.TEL:+79108600762
+item1.X-ABLabel:Мобильные устройства
+item2.TEL:+79605173433
+item2.X-ABLabel:Мобильные устройства
+item3.TEL:+79533237571
+item3.X-ABLabel:Мобильные устройства
+PHOTO:https://lh5.googleusercontent.com/-l9IFXFR-aTM/X8Etm6_snII/AAAAAAAAAA
+ A/L_abHTWzryYeEgDXltHfoz2V54OjTQjsgCOQCEAE/photo.jpg
+CATEGORIES:Коллеги,myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Владимир Белов
+N:Белов;Владимир;;;
+item1.TEL:+79109104857
+item1.X-ABLabel:Мобильные устройства
+PHOTO:https://lh4.googleusercontent.com/-OQKNoGsrhZU/X8EKlD9C0wI/AAAAAAAAAA
+ A/cdbouuHTivwAAVGNA00DpNOz1BR2BLSDwCOQCEAE/photo.jpg
+CATEGORIES:Родственники,myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Владимир Василенко
+N:Василенко;Владимир;;;
+item1.TEL:+79873697938
+item1.X-ABLabel:Мобильные устройства
+item2.TEL:+78455231110
+item2.X-ABLabel:Домашние контакты
+NOTE:Аткарск Саратовская область
+PHOTO:https://lh5.googleusercontent.com/-y90xGhOQNnc/X8EtVdP2WpI/AAAAAAAAAA
+ A/nogqt-Iyd3k0zKhxUD1ddzB05KBrRGeVgCOQCEAE/photo.jpg
+CATEGORIES:Разные,myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Владимир Коноплев
+N:Коноплев;Владимир;;;
+item1.TEL:+79065089646
+item1.X-ABLabel:Мобильные устройства
+item2.TEL:+79066429071
+item2.X-ABLabel:Мобильные устройства
+item3.TEL:+79105950203
+item3.X-ABLabel:Мобильные устройства
+item4.TEL:+79108698058
+item4.X-ABLabel:Мобильные устройства
+PHOTO:https://lh4.googleusercontent.com/-L8kXq2miQNU/X8FbL_knFTI/AAAAAAAAAA
+ A/uQ66i-QQjBoYUHfo4L6FDuD6nWspFs9pgCOQCEAE/photo.jpg
+CATEGORIES:Коллеги,myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Владимир Сулейманов
+N:Сулейманов;Владимир;;;
+item1.TEL:+79208948366
+item1.X-ABLabel:Мобильные устройства
+PHOTO:https://lh4.googleusercontent.com/-y3R3gQriytg/X8Ay21RQv9I/AAAAAAAAAA
+ A/8uOcP0iustQ_bxg6gvv_O7FucLoZ8Q6GQCOQCEAE/photo.jpg
+CATEGORIES:Коллеги,myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Внук
+N:;Внук;;;
+TEL;TYPE=CELL:+7 903 007-34-52
+item1.TEL:+79158937830
+item1.X-ABLabel:Мобильные устройства
+BDAY:20080716
+NOTE:Photo: https\://lh4.googleusercontent.com/-BSgQ7l5s1Os/XCezmeu3TrI/AAA
+ AAAAAAAA/NeLRwDiU9fs97HwPePdcXxB7sW5Zx8TDwCOQCEAE/photo.jpg
+PHOTO:https://lh5.googleusercontent.com/-2oNRq7UOl8w/X77Y1O5KAMI/AAAAAAAAAA
+ A/XggHG-sawnw3Z-oGMtVEiYH_ogjGNCXUQCOQCEAE/photo.jpg
+CATEGORIES:Родственники,myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Галина Кочеткова
+N:Кочеткова;Галина;;;
+item1.TEL:+79105285616
+item1.X-ABLabel:Мобильные устройства
+item2.TEL:+996555945316
+item2.X-ABLabel:Рабочие контакты
+item3.TEL:+996704945316
+item3.X-ABLabel:Домашние контакты
+NOTE:WhatsApp работает на номере\n+996 704 94 53 16
+PHOTO:https://lh5.googleusercontent.com/-UrETnsRbQrI/X8Eudq_J2QI/AAAAAAAAAA
+ A/sn8y6CgliOgBVSbaHtzbVd88W-4xcD03wCOQCEAE/photo.jpg
+CATEGORIES:Родственники,myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Даниил Драников
+N:Драников;Даниил;;;
+item1.TEL:+79857888425
+item1.X-ABLabel:Мобильные устройства
+item2.TEL:+79105954385
+item2.X-ABLabel:Мобильные устройства
+PHOTO:https://lh4.googleusercontent.com/-5EUErXNZtr0/X8AeX1JkEiI/AAAAAAAAAA
+ A/-kT6aMYvvf0CDo3GbJBw6BYc3w-wHsgqACOQCEAE/photo.jpg
+CATEGORIES:Родственники,myContacts,starred
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Денис Кочетков
+N:Кочетков;Денис;;;
+item1.TEL:+79158990111
+item1.X-ABLabel:Мобильные устройства
+PHOTO:https://lh3.googleusercontent.com/-c-at7nWPrV8/X8EuTnH72pI/AAAAAAAAAA
+ A/L5PwC-8gO-McR_Q7M1hQzEhtOp0AetSWwCOQCEAE/photo.jpg
+CATEGORIES:Родственники,myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Дмитрий Топалиди
+N:Топалиди;Дмитрий;;;
+item1.TEL:+79106083729
+item1.X-ABLabel:Мобильные устройства
+PHOTO:https://lh3.googleusercontent.com/-_f9zaLhNhc8/X8Ev1WJIDQI/AAAAAAAAAA
+ A/Z_Vv4Zpuhc0XFxri-5Y9vtpjYoQ6q4VFwCOQCEAE/photo.jpg
+CATEGORIES:Коллеги,myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Дочь
+N:;Дочь;;;
+TEL;TYPE=CELL:+79092522512
+TEL;TYPE=CELL:+79105138720
+BDAY:19840625
+NOTE:Photo: https\://lh4.googleusercontent.com/-WBFJo4AVrEE/XCeznp66TyI/AAA
+ AAAAAAAA/mlnBTJzf0BwsRD0WlgbJtp8z26eSJnWPQCOQCEAE/photo.jpg
+PHOTO:https://lh3.googleusercontent.com/-lW8AwURpzS8/X77ZFPNczyI/AAAAAAAAAA
+ A/2xarUwb58U4NF9upWzjY89xZ5450JkYlgCOQCEAE/photo.jpg
+CATEGORIES:Родственники,myContacts,starred
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Жалобы на СПАМ
+N:;Жалобы на СПАМ;;;
+TEL;TYPE=CELL:1911
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Иван Хараборкин
+N:Хараборкин;Иван;;;
+item1.TEL:+79038114770
+item1.X-ABLabel:Мобильные устройства
+PHOTO:https://lh4.googleusercontent.com/-BC2nTV3dxZo/X8EwS9K34JI/AAAAAAAAAA
+ A/btkcGEtBiKonzFNFD_sziSCvQb7TH0LOgCOQCEAE/photo.jpg
+CATEGORIES:Коллеги,myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Инфотел
+N:;Инфотел;;;
+item1.TEL:88001009449
+item1.X-ABLabel:Рабочие контакты
+PHOTO:https://lh4.googleusercontent.com/-n6ZuJwdzFbE/X8QaTF1jLvI/AAAAAAAAAA
+ A/6cL7BIA9g1UQsXP5o3V8e2-z73dXfqaMgCOQCEAE/photo.jpg
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Ирина Драникова
+N:Драникова;Ирина;;;
+EMAIL;TYPE=INTERNET;TYPE=WORK:imdranikova@mail.ru
+EMAIL;TYPE=INTERNET:dranikovairina1987@gmail.com
+item1.TEL:+79105935819
+item1.X-ABLabel:Мобильные устройства
+item2.TEL:+79184546378
+item2.X-ABLabel:Мобильные устройства
+PHOTO:https://lh6.googleusercontent.com/-RQAC6qso7Ko/X77YjzaMr6I/AAAAAAAAAA
+ A/ZOheAW4sU9Qg23h3qBKIAIlbpkYpYiTEwCOQCEAE/photo.jpg
+CATEGORIES:Родственники,myContacts,starred
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Драникова Ирина
+N:Драникова;Ирина;;;
+item1.EMAIL;TYPE=INTERNET:imdranikova@mail.ru
+item1.X-ABLabel:internet
+item2.EMAIL;TYPE=INTERNET:dranikovairina1987@gmail.com
+item2.X-ABLabel:internet
+TEL:+79105935819
+TEL:+79184546378
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Калуга Больница
+N:Больница;Калуга;;;
+item1.TEL:84842277677
+item1.X-ABLabel:Мобильные устройства
+item2.TEL:84842725924
+item2.X-ABLabel:Рабочие контакты
+NOTE:8(4842) 27-76-77 запись на платный прием\n8(4842) 72-59-24 СКТ
+PHOTO:https://lh6.googleusercontent.com/-wt0g5K_S75o/X8ENLLGYBpI/AAAAAAAAAA
+ A/D9cpB6w5Z9Unbpr7OCYOFBb4myDKDWH-wCOQCEAE/photo.jpg
+CATEGORIES:Разные,myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Киса
+N:;Киса;;;
+TEL;TYPE=MAIN:+79106099392
+item1.TEL:+79105916031
+item1.X-ABLabel:Гостевой
+BDAY:19610226
+PHOTO:https://lh6.googleusercontent.com/-22JxVxmHdXs/X77YOQw-06I/AAAAAAAAAA
+ A/e1bUr-Xk0V0XR4cInmKDcjXpGKL-nMzqQCOQCEAE/photo.jpg
+CATEGORIES:Родственники,myContacts,starred
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Кудиново Больница
+N:Больница;Кудиново;;;
+item1.TEL:84843133608
+item1.X-ABLabel:Мобильные устройства
+PHOTO:https://lh6.googleusercontent.com/-f6U9XJbHJjk/X8EPEo_iwlI/AAAAAAAAAA
+ A/uCuear_ATLATBLxj7YyhWdH6XwGQprh5ACOQCEAE/photo.jpg
+CATEGORIES:Разные,myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Кудиново Почта
+N:Почта;Кудиново;;;
+item1.TEL:84843133606
+item1.X-ABLabel:Мобильные устройства
+PHOTO:https://lh3.googleusercontent.com/-iMNK4WowVx0/X8Eu9_TyR6I/AAAAAAAAAA
+ A/SeRQwwUa-4s7eaHL7vgVK4G50A_LNbnkwCOQCEAE/photo.jpg
+CATEGORIES:Разные,myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Личный кабинет
+N:;Личный кабинет;;;
+TEL;TYPE=CELL:*105#
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Малый Больница
+N:Больница;Малый;;;
+item1.TEL:84843120162
+item1.X-ABLabel:Мобильные устройства
+item2.TEL:84843121518
+item2.X-ABLabel:Домашние контакты
+NOTE:84843121518 СКТ\n84843120162 Льготная аптека
+PHOTO:https://lh3.googleusercontent.com/-94fP2ejoT3s/X8EtJ83293I/AAAAAAAAAA
+ A/GNt_FbBEqPEYhRNWKTpTxfTJQfuQkg2QACOQCEAE/photo.jpg
+CATEGORIES:Разные,myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Малый Стоматолог
+N:Стоматолог;Малый;;;
+item1.TEL:89208770400
+item1.X-ABLabel:Мобильные устройства
+item2.TEL:84843124041
+item2.X-ABLabel:Рабочие контакты
+NOTE:Платная. Татьяна
+PHOTO:https://lh6.googleusercontent.com/-JTPSZbKzPAA/X8EvRt5CCSI/AAAAAAAAAA
+ A/PChbF66bYHwhzqB_Tjx81IFUR9rRxjcbACOQCEAE/photo.jpg
+CATEGORIES:Разные,myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:МегаГуру
+N:;МегаГуру;;;
+TEL;TYPE=CELL:0005
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:МегаФон
+N:;МегаФон;;;
+TEL;TYPE=CELL:+78005500500
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:МегаФон-Бонус
+N:;МегаФон-Бонус;;;
+TEL;TYPE=CELL:*115#
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Мои подписки
+N:;Мои подписки;;;
+TEL;TYPE=CELL:*505#
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Мой номер
+N:;Мой номер;;;
+TEL;TYPE=CELL:*205#
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Николай Луканов
+N:Луканов;Николай;;;
+item1.TEL:+79533115948
+item1.X-ABLabel:Мобильные устройства
+PHOTO:https://lh6.googleusercontent.com/-fcVG7WBpuYU/X8FbTqk6w6I/AAAAAAAAAA
+ A/zQdWguc-keAIXXLSbgUxix7zdrZRZMwPwCOQCEAE/photo.jpg
+CATEGORIES:Коллеги,myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Николай Москогло
+N:Москогло;Николай;;;
+item1.TEL:+79208718231
+item1.X-ABLabel:Мобильные устройства
+PHOTO:https://lh4.googleusercontent.com/-I34UGhj7rLg/X8Euup144OI/AAAAAAAAAA
+ A/SZoi9NbWJJgV1fft2MTwtEuK41Rfs895ACOQCEAE/photo.jpg
+CATEGORIES:Разные,myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Обещанный платеж
+N:;Обещанный платеж;;;
+TEL;TYPE=CELL:*106#
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Остатки трафика
+N:;Остатки трафика;;;
+TEL;TYPE=CELL:*558#
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Пароль Личный кабинет
+N:;Пароль Личный кабинет;;;
+TEL;TYPE=CELL:*105*00#
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Сбербанк
+N:;Сбербанк;;;
+item1.TEL:900
+item1.X-ABLabel:Рабочие контакты
+item2.TEL:88005555550
+item2.X-ABLabel:workFax
+PHOTO:https://lh4.googleusercontent.com/-5VU2uXKtKqc/X8ED4QDdtcI/AAAAAAAAAA
+ A/LuT5FhdBV90-Qrj4WH7EdeU2KNuh3cVRACOQCEAE/photo.jpg
+CATEGORIES:Разные,myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Семен Белов
+N:Белов;Семен;;;
+item1.TEL:+79108661919
+item1.X-ABLabel:Мобильные устройства
+PHOTO:https://lh4.googleusercontent.com/-E2cmK5Y_Awk/X8EKyE8-9uI/AAAAAAAAAA
+ A/0YfiKxrMB-ov_-4DmayHA2EY_JmipXsuwCOQCEAE/photo.jpg
+CATEGORIES:Родственники,myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Сергей Драников
+N:Драников;Сергей;;;
+item1.TEL:+79105283229
+item1.X-ABLabel:Мобильные устройства
+PHOTO:https://lh6.googleusercontent.com/-1oxtVVyo4ZA/X8AyUVbQ5SI/AAAAAAAAAA
+ A/lNyzwn-M2OsQ1OvDsjuVIbgfNoae-mVSACOQCEAE/photo.jpg
+CATEGORIES:Родственники,myContacts,starred
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Сергей Исаев
+N:Исаев;Сергей;;;
+item1.TEL:+79206140950
+item1.X-ABLabel:Мобильные устройства
+PHOTO:https://lh6.googleusercontent.com/-xsKL495C6V8/X8Ayl4RmJoI/AAAAAAAAAA
+ A/ir38dZn9B0AYT9_84N4VlgtBjweCr1B6gCOQCEAE/photo.jpg
+CATEGORIES:Коллеги,myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Сергей Казанцев
+N:Казанцев;Сергей;;;
+item1.TEL:+79605187227
+item1.X-ABLabel:Мобильные устройства
+PHOTO:https://lh4.googleusercontent.com/-jBtqjSk34pc/X8EuFEueGsI/AAAAAAAAAA
+ A/-Oz-8hA-mik_iNhAWWf2Rzlg525WVo_ywCOQCEAE/photo.jpg
+CATEGORIES:Коллеги,myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Служба спасения
+N:;Служба спасения;;;
+TEL;TYPE=CELL:112
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Сноха
+N:;Сноха;;;
+TEL;TYPE=CELL:+7 909 795-49-62
+PHOTO:https://lh6.googleusercontent.com/-u7lWsO15hCc/X8EvIn_6KiI/AAAAAAAAAA
+ A/fjGKoFWDHNYqFoV55-UYUDZm5sqgkpJSwCOQCEAE/photo.jpg
+CATEGORIES:Родственники,myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Сын
+N:;Сын;;;
+item1.TEL:+79622595527
+item1.X-ABLabel:Мобильные устройства
+item2.TEL:+996556132660
+item2.X-ABLabel:Другое
+item3.TEL:+79068130569
+item3.X-ABLabel:Другое
+BDAY:19880218
+PHOTO:https://lh4.googleusercontent.com/-ZNdckmSbhpA/X8Evcc5tLdI/AAAAAAAAAA
+ A/QVv8pxzyyocoPS4j3XGlvf2Hh16-z9i4ACOQCEAE/photo.jpg
+CATEGORIES:Родственники,myContacts,starred
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Сын
+N:;Сын;;;
+item1.TEL:+79622595527
+item1.X-ABLabel:
+item2.TEL:+996556132660
+item2.X-ABLabel:
+item3.TEL:+79068130569
+item3.X-ABLabel:
+BDAY:19880218
+NOTE:Photo\: https\://lh6.googleusercontent.com/-fBVhYTMTslU/XCezqoOMsfI/AA
+ AAAAAAAAA/QGev7N7hw6scfVS9bABanjjs4F8-kB26QCOQCEAE/photo.jpg
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Татьяна Белова
+N:Белова;Татьяна;;;
+item1.TEL:+79066403288
+item1.X-ABLabel:Мобильные устройства
+NOTE:Крестница
+PHOTO:https://lh4.googleusercontent.com/-8wY2RsZCo_Y/X8EtAKc2SdI/AAAAAAAAAA
+ A/mptQ8mbuK6kueAoLEtXePb1hthvXqlXLQCOQCEAE/photo.jpg
+CATEGORIES:Родственники,myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Теща
+N:;Теща;;;
+item1.TEL:+79155024057
+item1.X-ABLabel:Мобильные устройства
+PHOTO:https://lh6.googleusercontent.com/-ky4NJw3gOfU/X8EvsjMm-MI/AAAAAAAAAA
+ A/HrrPOGXjAQcrk0_t9FLhv4pPVPIfuO49gCOQCEAE/photo.jpg
+CATEGORIES:Разные,myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Электроцех
+N:;Электроцех;;;
+item1.TEL:84843133619
+item1.X-ABLabel:Рабочие контакты
+PHOTO:https://lh4.googleusercontent.com/-GyG7gDac9pU/X8Ezo5U_R7I/AAAAAAAAAA
+ A/HmP6x0wOIZkWoHrNlyAh7qQG6GBcLO2ZACOQCEAE/photo.jpg
+CATEGORIES:Разные,myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Юрий Струговец
+N:Струговец;Юрий;;;
+item1.TEL:+79030263172
+item1.X-ABLabel:Мобильные устройства
+PHOTO:https://lh5.googleusercontent.com/-m1XLumnAVVA/X8FbdZ3K78I/AAAAAAAAAA
+ A/1WnxnBl1OHgiNmuhElyJ6OOWz3ROkEbDgCOQCEAE/photo.jpg
+CATEGORIES:Коллеги,myContacts
+END:VCARD
